@@ -16,6 +16,6 @@ Having this information, pacman can set appropriate values to its ExpectiMinMax 
 <b>BUGS:</b>
 
 <ul>
-  <li>Due to bad optimisation and inproper Unity game engine use durring this project this program is very slow and stals GUI;</li>
+  <li>Due to bad optimisation and inproper Unity game engine use during this project this program is very slow and stalls GUI;</li>
   <li>In some cases, heuristics seems to be inaccurate;</li>
 </ul>
